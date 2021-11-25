@@ -86,9 +86,10 @@ img{
 }
 
 #button4{
+	font-family: Phenomena;
 	width:100%;
 	color:#000000;
-	font-size:calc((min(50vw, 60vh))*0.075);
+	font-size:calc((min(50vw, 60vh))*0.1);
 	background:#00c800;
 	padding:calc((min(50vw, 60vh))*0.075);
 	border:none;
