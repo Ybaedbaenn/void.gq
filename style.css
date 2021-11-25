@@ -1,7 +1,7 @@
 html{
 	@font-face{
 	font-family: Phenomena;
-	src: url("Phenomena-Regular.otf");
+	src: url("/Phenomena-Regular.otf");
 	}
 	font-family: Phenomena;
 	width:100%;
