@@ -1,8 +1,8 @@
-html{
-	@font-face{
+@font-face{
 	font-family: Phenomena;
 	src: url("/Phenomena-Regular.otf");
-	}
+}
+html{
 	font-family: Phenomena;
 	width:100%;
 	height:100%;
